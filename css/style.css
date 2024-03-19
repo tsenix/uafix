@@ -517,9 +517,9 @@ h6 {
 
 .mobile__search-input {
   -webkit-box-flex: 0;
-      -ms-flex: 0 0 calc(100% - 94px);
-          flex: 0 0 calc(100% - 94px);
-  width: calc(100% - 94px);
+      -ms-flex: 0 0 calc(100% - 65px);
+          flex: 0 0 calc(100% - 65px);
+  width: calc(100% - 65px);
   font-size: 16px;
 }
 
@@ -551,6 +551,7 @@ h6 {
 }
 
 .mobile__search-close {
+  display: none;
   position: relative;
   -webkit-box-flex: 0;
       -ms-flex: 0 0 14px;
