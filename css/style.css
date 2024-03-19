@@ -472,6 +472,7 @@ h6 {
 
 .mobile__menu {
   position: fixed;
+  z-index: 15;
   top: 100px;
   left: 0;
   width: 100%;
